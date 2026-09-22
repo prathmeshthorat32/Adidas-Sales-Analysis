@@ -82,6 +82,7 @@ performance.
 
 The dashboard contains interactive visualizations for analyzing
 Adidas sales performance.
+![Adidas Sales Dashboard](Adidas.png)
 
 ## 🚀 Conclusion
 
